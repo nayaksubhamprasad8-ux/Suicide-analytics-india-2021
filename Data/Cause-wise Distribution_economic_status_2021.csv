@@ -1,0 +1,24 @@
+Category,Status,Male,Female,Transgender,Total,Percentage Share
+Marital Status,Un-Married,27305,12096,20,39421,24
+Marital Status,Married,81063,28680,6,109749,66.9
+Marital Status,Widowed/ Widower,1470,1015,0,2485,1.5
+Marital Status,Divorcee,494,294,0,788,0.5
+Marital Status,Separated,626,243,2,871,0.5
+Marital Status,Others,1419,773,0,2192,1.3
+Marital Status,Status not known,6602,1925,0,8527,5.2
+Marital Status,Total,118979,45026,28,164033,100
+Economic Status,less than 1 lakh,72818,32397,27,105242,64.2
+Economic Status,1 lakh & above - less than 5 lakhs,40838,10973,1,51812,31.6
+Economic Status,5 lakhs & above - less than 10 lakhs,4454,1234,0,5688,3.5
+Economic Status,10 lakhs and above,869,422,0,1291,0.8
+Economic Status,Total,118979,45026,28,164033,100
+Educational Status,No Education,12242,5774,2,18018,11
+Educational Status,Primary (upto class–5th),18323,7552,3,25878,15.8
+Educational Status,Middle (upto class–8th),22898,8501,5,31404,19.1
+Educational Status,Matriculate/ Secondary (upto class-10th),29241,10079,13,39333,24
+Educational Status,Hr. Secondary/ Intermediate/ Pre-University (upto class-12th),19479,7011,2,26492,16.2
+Educational Status,Diploma/ Certificate/ ITI,1654,334,0,1988,1.2
+Educational Status,Graduate and above,5542,2070,1,7613,4.6
+Educational Status,Professionals (MBA etc.),376,161,0,537,0.3
+Educational Status,Status Not Known,9224,3544,2,12770,7.8
+Educational Status,Total,118979,45026,28,164033,100
