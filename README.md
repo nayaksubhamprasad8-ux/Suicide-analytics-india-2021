@@ -132,7 +132,6 @@ Suicide-analytics-india-2021/
 │   ├── State-wise Distribution_2021.csv
 │   └── master_state_dataset_2021.csv
 │
-├── notebooks/
 │
 ├── src/
 │   ├── inspect_data.py
